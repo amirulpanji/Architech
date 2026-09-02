@@ -14,6 +14,7 @@ export default function LearnMore() {
             <p className="mb-2">
                 Kami berharap Architech dapat menjadi alat yang berguna bagi para penggemar teknologi dan mereka yang ingin merakit PC tanpa harus khawatir tentang kompatibilitas atau harga. Selamat mencoba dan semoga Anda menemukan konfigurasi PC yang sempurna!
             </p>
+            <h1 className="text-4xl m-1 text-left">Menur Mental Asylum</h1>
         </div>
     );
 }
